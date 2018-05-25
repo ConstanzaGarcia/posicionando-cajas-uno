@@ -1,0 +1,34 @@
+#red{
+    background-color: red;
+    position: fixed;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+#violet {
+    background-color:violet ;
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    display: inline-block;
+    left: 75px;
+    top: 60px;
+}
+
+#yellow {
+    background-color:yellow;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: inline-block;
+    left: 67px;
+    top:47px;
+
+}
